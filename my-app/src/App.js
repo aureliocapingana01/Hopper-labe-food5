@@ -1,3 +1,4 @@
+import React from "react"
 import TelaInicial from "./Paginas/Login/TelaIncial";
 
 function App() {
